@@ -1,10 +1,10 @@
-# 🧩 Block Blast! (Java & Processing)
+# Block Blast! (Java & Processing)
 
 An interactive, grid-based puzzle game built in Java using the Processing library. Inspired by the popular mobile game *Block Blast*, this project challenges players to strategically place unique shapes on a grid, clear lines, and chase high scores.
 
 ---
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 The objective of the game is simple: get the highest score possible by filling up rows and columns
 
@@ -16,7 +16,7 @@ The objective of the game is simple: get the highest score possible by filling u
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Dynamic Shape Spawner:** Randomly generates sets of three shapes from a pool of 10 unique templates
 * **Real-time Score Calculator:** Tracks and displays your current score prominently on screen
@@ -25,7 +25,7 @@ The objective of the game is simple: get the highest score possible by filling u
 
 ---
 
-## 🛠️ Code Structure
+## Code Structure
 
 The project is structured into three main classes to keep the codebase clean and modular:
 
